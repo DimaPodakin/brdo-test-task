@@ -1,0 +1,13 @@
+test_task\model\Comment.class
+test_task\service\ReportCreator.class
+test_task\service\impl\InsertTimeImpl.class
+test_task\service\impl\ReportCreatorImpl.class
+test_task\service\HttpClient.class
+test_task\service\InsertTime.class
+test_task\Main.class
+test_task\dto\ApiResponseDto.class
+test_task\service\impl\ReportWriterToFileImpl.class
+test_task\model\User.class
+test_task\service\impl\UserNameChangerImpl.class
+test_task\service\UserNameChanger.class
+test_task\service\ReportWriterToFile.class
